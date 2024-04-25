@@ -55,7 +55,7 @@ O desafio consiste em criar um sistema bancário utilizando a linguagem de progr
 [Especificações](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/blob/main/srce/sistemabancario.md) <br>
 [Código](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/blob/main/srce/sistema_bancario.py)
 
-<a href="">
+<!---<a href="">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/3c708079-6026-4309-86a0-9562ec163b53" alt="Projeto 2" width="75" >
 </a>
 
@@ -74,14 +74,14 @@ Explicação do projeto
 </a>
 
 Nome do Projeto:
-Explicação do projeto
+Explicação do projeto--->
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/71e34dfc-1b02-4a2b-8ced-80569168af37)
 
 Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 
 1. Clone este repositório para o seu ambiente local usando `git clone`.
-2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/Jornada-Python/blob/main/requeriments.md).
+2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/blob/main/srce/requeriments.md).
 3. Execute os códigos para reproduzir os resultados ou fazer modificações conforme necessário.
 
    
