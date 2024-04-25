@@ -18,17 +18,11 @@ Este repositório contém os arquivos relacionados ao Bootcamp Python AI Backend
 ### Git e Github
 Trabalha os fundamentos do sistema de versionamento de código git, o funcionamento da plataforma Github e tem como conclusão um projeto prático que consiste na criação de um Profile [README](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/Thamine-sumaya.md) personalizado  contendo informações pessoais, como uma apresentação para a comunidade.
 
-<a href="">
-   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/5b0d29b7-cffd-460e-b5be-173850cb5b2b" alt="anotações git" width="100" >
-</a>
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/7e0b1ee6-fcd1-428e-8d44-69524aefd4a3)
 ### Python
 Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Python, tem como projeto desafios teóricos ao final de cada aula, com uma série de perguntas de multipla escolha com limite de tempo, e um desafio prático de 3 etapas ao final do módulo, onde são apresentados problemas fictícios, instruções sobre como a resolução deve ser executada e a partir deles esperado uma solução criada pelo aluno, os códigos depois de inseridos são testados pela plataforma, e se dados como corretos a tarefa é concluída.
 
-<a href="">
-   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/5b0d29b7-cffd-460e-b5be-173850cb5b2b" alt="anotações python" width="100" >
-</a>
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/c74027f8-4fc7-4736-ae9c-162d7b05b57d)
 
@@ -57,7 +51,9 @@ O objetivo principal deste projeto é desenvolver habilidades em Python, por mei
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/9bfde7f8-fff8-4c07-99e9-57273c4c668b" alt="Projeto 1" width="75" >
 </a>
 
-Nome do Projeto:
+### Sistema Bancário:
+[Especificações]()
+[Código]()
 Explicação do projeto
 
 <a href="">
