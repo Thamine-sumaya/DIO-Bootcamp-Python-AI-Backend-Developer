@@ -88,3 +88,6 @@ Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/6552de08-474c-4689-b6fd-8317c1b69c5f)
 
 Esse projeto não está aberto para contribuições, é apenas uma demonstração dos conhecimentos adquiridos durante o Bootcamp.
+![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/74b66bb3-cf18-4a31-b22a-2b68566939e7)
+[![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/d05e61dc-83a7-4281-a6fb-6c689184a1c2)](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/blob/main/Certificações.md)
+
