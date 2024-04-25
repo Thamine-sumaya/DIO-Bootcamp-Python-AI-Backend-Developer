@@ -1,4 +1,3 @@
-
 menu = """
 =================================================
     Olá, seja bem vindo(a), o que você deseja:
@@ -54,10 +53,16 @@ while operacao1 != 0:
             if quantidade_saque >=1:
                 s1= float(input("Informe ao sistema qual o valor do saque:"))
                 if s1 > saldo:
-                    print("Saldo insuficiente.")
+                    print("""
+    _______________________________________________________         
+    | Saldo insuficiente, não é possível executar o saque |
+    -------------------------------------------------------""")
                     break
                 if s1 > 500.00:
-                    print("Valor inválido, saques acima de R$500,00 não são permitidos")
+                    print("""
+    _____________________________________________________________         
+    | Saque negado, saques acima de R$500,00 não são permitidos |
+    -------------------------------------------------------------""")
                     mais_saque=input("""
 ==========================================
     Deseja efetuar um saque?
@@ -91,7 +96,10 @@ Sua resposta:""")
                     else:
                         break
         else: 
-            print("Você escedeu seu limite de saques por hoje.")
+            print("""
+    ______________________________________________        
+    | Você escedeu seu limite de saques por hoje. |
+    ----------------------------------------------""")
         
     elif operacao2 == "e":
         saldo = saldo + depo - saq
@@ -101,6 +109,7 @@ Sua resposta:""")
             -----------""")
         extrat += f"Depósito total de:R${depo:0.2f}\n"
         extrat += f"Saque total de:R${saq:0.2f}\n"
+        extrat += f"\n"
         extrat += f"Saldo final de:R${saldo:0.2f}\n"
         extrat += f"=============================================="
         print(extrat)
@@ -114,5 +123,10 @@ Sua resposta:""")
         SystemExit
         
     else:
-        print("Operação inválida.")
+        print("""
+            ____________________    
+            |Operação inválida |
+            --------------------
+              """)
+            
             
