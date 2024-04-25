@@ -3,7 +3,7 @@
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/744ab57d-4ffd-41b6-a784-27b626e98508)
 
-Este repositório contém os arquivos relacionados ao Bootcamp Python AI Backend Developer proporcionado pela DIO_me em colaboração com a Vivo. Este repositório serve como uma exposição de conhecimentos adiquiridos durante o Bootcamp, reunindo des de anotações teoricas, até projetos práticos. 
+Este repositório contém os arquivos relacionados ao Bootcamp Python AI Backend Developer proporcionado pela DIO_me em colaboração com a Vivo. Este repositório serve como uma exposição de conhecimentos adiquiridos durante o Bootcamp, reunindo todos os projetos práticos executados. 
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/26d1ec55-c3d2-426d-9796-22ed602792c5)
 
@@ -26,7 +26,7 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/c74027f8-4fc7-4736-ae9c-162d7b05b57d)
 
-### Tópico
+<!---### Tópico
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/e39d12f3-cff8-4a1a-84c4-6204095adeb8)
 
@@ -38,7 +38,7 @@ Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Pyt
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/74b66bb3-cf18-4a31-b22a-2b68566939e7)
 
-### Tópico
+### Tópico--->
 
 <!---![Objetivo](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/a5701b05-926d-472d-b67f-ae087f45f5ca)
 
@@ -48,13 +48,12 @@ O objetivo principal deste projeto é desenvolver habilidades em Python, por mei
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/ffbf8deb-9c56-42ad-b1e2-f4b0166ddea2)
 
 <a href="">
-   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/9bfde7f8-fff8-4c07-99e9-57273c4c668b" alt="Projeto 1" width="75" >
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/9a441757-ef21-4fa3-a781-d66c1c0a7543" alt="Projeto 1" width="175" >
 </a>
 
-### Sistema Bancário:
-[Especificações]()
-[Código]()
-Explicação do projeto
+O desafio consiste em criar um sistema bancário utilizando a linguagem de programação Python, com as seguintes funcionalidades: operação de saque, depósito e extrato.<br>
+[Especificações](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/blob/main/srce/sistemabancario.md) <br>
+[Código](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/blob/main/srce/sistema_bancario.py)
 
 <a href="">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/3c708079-6026-4309-86a0-9562ec163b53" alt="Projeto 2" width="75" >
