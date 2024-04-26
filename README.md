@@ -1,6 +1,8 @@
 ![DIO icon](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/085e34b2-ba59-4e2a-b372-bffca651a1ac)
 ![Icon Python AI Backend Developer](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/c3afca9c-8251-435e-84cd-ca8e790eb208)
 
+![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/a85b7471-5eb1-41e4-9c7a-d41f8b1034f6)
+
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/744ab57d-4ffd-41b6-a784-27b626e98508)
 
 Este repositório contém os arquivos relacionados ao Bootcamp Python AI Backend Developer proporcionado pela DIO_me em colaboração com a Vivo. Este repositório serve como uma exposição de conhecimentos adiquiridos durante o Bootcamp, reunindo todos os projetos práticos executados. 
