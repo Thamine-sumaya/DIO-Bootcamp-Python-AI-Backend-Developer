@@ -5,7 +5,7 @@ Além da criação de duas novas funções: criar usuário(cliente do banco) e c
 
 ## Separação em funções
 
-Para exercício do conteúdo aprendido no módulo, cada função vai ter uma <span style="color: rgba(173, 0, 255, 1) ">regra</span> na passagem de argumentos.
+Para exercício do conteúdo aprendido no módulo, cada função vai ter uma regra na passagem de argumentos.
 
 ### Saque
 
