@@ -62,7 +62,7 @@ O desafio consiste em criar um sistema bancário utilizando a linguagem de progr
 </a>
 
 Conteúo <br>
-[Especificações]() <br>
+[Especificações](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/blob/main/srce/sistemabancariov2.md) <br>
 [Código]()
 
 <!---<a href="">
