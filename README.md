@@ -23,7 +23,7 @@ Trabalha os fundamentos do sistema de versionamento de código git, o funcioname
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/7e0b1ee6-fcd1-428e-8d44-69524aefd4a3)
 ### Python
-Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Python, tem como projeto desafios teóricos ao final de cada aula, com uma série de perguntas de multipla escolha com limite de tempo, e um desafio prático de 3 etapas ao final do módulo, onde são apresentados problemas fictícios, instruções sobre como a resolução deve ser executada e a partir deles esperado uma solução criada pelo aluno, os códigos depois de inseridos são testados pela plataforma, e se dados como corretos a tarefa é concluída.
+Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Python, tem como projeto desafios teóricos ao final de cada aula, com uma série de perguntas de multipla escolha com limite de tempo, e um desafio prático de 3 etapas ao final do módulo, onde são apresentados problemas fictícios, instruções sobre como a resolução deve ser executada e a partir deles esperado uma solução criada pelo aluno.
 
 
 ![image](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/c74027f8-4fc7-4736-ae9c-162d7b05b57d)
