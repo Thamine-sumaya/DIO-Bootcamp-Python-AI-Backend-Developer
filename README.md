@@ -61,7 +61,7 @@ O desafio consiste em criar um sistema bancário utilizando a linguagem de progr
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/fb204f84-775f-433d-83b2-b5ede3619f1e" alt="Projeto 1" width="300" >
 </a>
 
-O desafio consiste em otimizar o sismetema bancário criado anteriormente, blocando os códigos em forma de funções, além de adicionar as funções de criação de usuário, criação de conta. <br>
+O desafio consiste em otimizar o sistema bancário criado anteriormente, blocando os códigos em forma de funções, além de adicionar as funções de criação de usuário, criação de conta. <br>
 [Especificações](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/blob/main/srce/sistemabancariov2.md) <br>
 [Código](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/blob/main/srce/sistema_bancario_v2.py)
 
